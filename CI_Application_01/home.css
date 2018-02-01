@@ -1,0 +1,48 @@
+body
+{
+    width: 80%;
+    margin: 0 auto;
+/*  background-color: #d0e4fe; */
+    background-color: #D3D3D3; 
+}
+
+
+#navigation
+{
+    width: 100%;
+}
+
+
+#tabs
+{
+/*  border-bottom: .5em solid #0033CC; */
+    border-bottom: 1em solid #000000; 
+    margin 30;
+    padding: 30;
+}
+
+
+#tabs li
+{
+    display:inline;
+/*    border-top:   .1em solid #03c; */
+    border-top:   .1em solid #000; 
+    border-left:  .1em solid #000;
+    border-right: .1em solid #000;
+
+}
+
+
+#tabs li a
+{
+    padding: 0.25em 1em;
+    text-decoration: none;
+}
+
+
+#tabs li#tab1 a
+{
+    padding: 0.50em 1em;
+    background-color: #OOO;
+    color #FFF;
+}

@@ -1,0 +1,50 @@
+body {
+    margin: 0 auto;
+    width: 90%;
+}
+h1 {
+    border: 0.1em solid #0033CC;
+    text-align: center;
+}
+#maincontent 
+{
+    width: 100%;
+}
+#navigation 
+{
+    width: 100%;
+}
+#header {
+    width: 100%;
+}
+#footer {
+    clear: both;
+    width: 100%;
+}
+#primary {
+    float: left;
+    width: 20%;
+}
+#secondary {
+    float: right;
+    width: 60%;
+}
+#tabs {
+    border-bottom: 0.5em solid #0033CC;
+    text-align: center;
+}
+#tabs li {
+    border-left: 0.1em solid #0033CC;
+    border-right: 0.1em solid #0033CC;
+    border-top: 0.1em solid #0033CC;
+    display: inline;
+}
+#tabs li a {
+    padding: 0.25em 1em;
+    text-decoration: none;
+}
+#home #tabs li#home a, #members #tabs li#members a, #homeprofile #tabs li#homeprofile a {
+    background-color: #0033CC;
+    color: #FFFFFF;
+    padding: 0.25em 1em;
+}

@@ -1,0 +1,4 @@
+1,home,home.html
+2,about us,about.html
+3,view collection,view.html
+4,contact us,contact.html

@@ -1,0 +1,45 @@
+body
+{
+    width: 80%;
+    margin: 0 auto;
+    background-color: #d0e4fe;
+}
+
+
+#navigation
+{
+    width: 100%;
+}
+
+
+#tabs
+{
+    border-bottom: .5em solid #0033CC;
+    margin 30;
+    padding: 30;
+}
+
+
+#tabs li
+{
+    display:inline;
+    border-top: .1em solid #03c;
+    border-left: .1em solid #03c;
+    border-right: .1em solid #03c;
+
+}
+
+
+#tabs li a
+{
+    padding: 0.25em 1em;
+    text-decoration: none;
+}
+
+
+#tabs li#tab1 a
+{
+    padding: 0.50em 1em;
+    background-color: #03c;
+    color # FFF;
+}

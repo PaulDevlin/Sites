@@ -1,0 +1,21 @@
+!SESSION 2015-01-09 21:40:41.022 -----------------------------------------------
+eclipse.buildId=I20100608-0911
+java.version=1.6.0_65
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.javascript.product -keyring /Users/Devlin/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.javascript.product -keyring /Users/Devlin/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.ui.workbench 2 0 2015-01-09 21:42:01.532
+!MESSAGE A handler conflict occurred.  This may disable some commands.
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2015-01-09 21:42:01.532
+!MESSAGE Conflict for 'AUTOGEN:::org.eclipse.wst.jsdt.ui.JavaElementCreationActionSet/org.eclipse.wst.jsdt.ui.actions.OpenProjectWizard':
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.wst.jsdt.ui.JavaElementCreationActionSet/org.eclipse.wst.jsdt.ui.actions.OpenProjectWizard,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.wst.jsdt.internal.ui.wizards.OpenJavaScriptProjectWizardToolbarAction),
+	expression=AndExpression(ActionSetExpression(org.eclipse.wst.jsdt.ui.JavaElementCreationActionSet,org.eclipse.ui.internal.WorkbenchWindow@64fb7efa),WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@64fb7efa)),sourcePriority=16640)
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.wst.jsdt.ui.JavaElementCreationActionSet/org.eclipse.wst.jsdt.ui.actions.OpenProjectWizard,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.wst.jsdt.internal.ui.wizards.OpenJavaScriptFileWizardToolbarAction),
+	expression=AndExpression(ActionSetExpression(org.eclipse.wst.jsdt.ui.JavaElementCreationActionSet,org.eclipse.ui.internal.WorkbenchWindow@64fb7efa),WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@64fb7efa)),sourcePriority=16640)
+
+!ENTRY org.eclipse.core.net 1 0 2015-01-09 21:42:02.252
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences

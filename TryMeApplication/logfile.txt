@@ -1,0 +1,176 @@
+127.0.0.1||1408049173|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||1408049176|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||1408050410|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||1408050411|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||1408050411|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||1408050413|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||1408051580|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||1408052042|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||1408052045|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||1408052046|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||1408052144|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||1408052363|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||1408052481|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||2014-08-14 21:47:39|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||2014-08-14 21:47:43|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||2014-08-14 21:47:43|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||2014-08-14 21:47:44|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||2014-08-14 21:47:45|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||2014-08-14 22:07:19|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||2014-08-14 22:07:22|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||2014-08-14 22:07:22|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||2014-08-14 22:10:56|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||2014-08-14 22:11:19|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||2014-08-14 22:14:46|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||2014-08-14 22:14:49|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||2014-08-14 22:17:35|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||2014-08-14 22:33:34|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||2014-08-14 22:33:49|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||2014-08-14 22:33:50|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||2014-08-14 22:33:50|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||2014-08-14 22:35:53|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||2014-08-14 22:38:32|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||2014-08-14 22:39:14|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||2014-08-14 22:41:04|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||2014-08-14 22:44:02|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||2014-08-14 22:45:48|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||2014-08-14 22:45:49|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||2014-08-14 22:45:50|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||2014-08-14 22:48:15|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||2014-08-14 22:49:02|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||2014-08-14 22:49:03|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||2014-08-14 22:50:23|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||2014-08-14 22:50:24|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||2014-08-14 22:50:25|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||2014-08-14 22:51:01|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||2014-08-14 22:51:02|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||2014-08-14 22:52:52|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||2014-08-14 22:52:54|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||2014-08-14 22:52:55|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||2014-08-14 22:52:56|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||2014-08-14 22:55:47|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||2014-08-14 22:55:48|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||2014-08-14 23:00:37|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||2014-08-14 23:02:42|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||2014-08-14 23:03:47|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||2014-08-14 23:04:48|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4|localhost|localhost
+127.0.0.1||2014-08-16 19:10:53|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/7.0.6 Safari/537.78.2|localhost|localhost
+127.0.0.1|http://localhost/~Devlin/TryMeApplication/|2014-08-16 21:58:50|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/7.0.6 Safari/537.78.2|localhost|localhost
+127.0.0.1|http://localhost/~Devlin/TryMeApplication/|2014-08-17 20:38:41|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/7.0.6 Safari/537.78.2|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+127.0.0.1|http://localhost/~Devlin/TryMeApplication/|2014-08-17 20:47:27|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/7.0.6 Safari/537.78.2|localhost|
+127.0.0.1|http://localhost/~Devlin/TryMeApplication/|2014-08-17 20:47:29|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/7.0.6 Safari/537.78.2|localhost|
+127.0.0.1|http://localhost/~Devlin/TryMeApplication/|2014-08-17 20:47:29|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/7.0.6 Safari/537.78.2|localhost|
+127.0.0.1|http://localhost/~Devlin/TryMeApplication/|2014-08-17 21:00:27|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/7.0.6 Safari/537.78.2|localhost|
+127.0.0.1|http://localhost/~Devlin/TryMeApplication/|2014-08-17 21:02:08|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/7.0.6 Safari/537.78.2|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+127.0.0.1||2014-08-25 21:03:31|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/7.0.6 Safari/537.78.2|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-01-12 21:03:44|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-01-12 21:29:16|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-01-12 22:06:07|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-01-12 22:09:54|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1|http://localhost/~Devlin/TryMeApplication/|2015-01-13 22:03:57|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-01-13 22:04:11|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-01-13 22:04:15|Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1|http://localhost/~Devlin/TryMeApplication/|2015-01-13 22:04:59|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1|http://localhost/~Devlin/TryMeApplication/|2015-01-13 22:05:49|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1|http://localhost/~Devlin/TryMeApplication/|2015-01-13 22:12:06|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1|http://localhost/~Devlin/TryMeApplication/|2015-01-13 22:16:15|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1|http://localhost/~Devlin/TryMeApplication/|2015-01-13 22:23:03|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-01-13 23:00:23|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-01-18 13:29:39|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-01-18 13:29:43|Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-01-21 22:02:16|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-01-21 23:08:16|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-01-22 22:11:44|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-01-22 22:11:48|Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-01-27 18:57:15|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-01-27 18:57:19|Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-02-15 09:58:38|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-02-15 09:58:42|Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-02-19 23:00:39|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-02-19 23:00:42|Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-02-19 23:20:34|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-03-02 08:48:17|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-03-02 08:48:21|Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-03-03 19:49:15|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-03-07 10:46:48|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-03-07 10:46:52|Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-04-01 22:01:22|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.3.18 (KHTML, like Gecko) Version/8.0.3 Safari/600.3.18|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-04-19 10:02:35|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.3.18 (KHTML, like Gecko) Version/8.0.3 Safari/600.3.18|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-04-19 10:02:39|Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-04-27 19:27:55|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.3.18 (KHTML, like Gecko) Version/8.0.3 Safari/600.3.18|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-04-27 19:27:59|Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-05-05 20:29:24|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.3.18 (KHTML, like Gecko) Version/8.0.3 Safari/600.3.18|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-05-05 20:29:28|Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-05-13 20:21:21|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.3.18 (KHTML, like Gecko) Version/8.0.3 Safari/600.3.18|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-05-13 20:21:25|Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-05-25 19:14:43|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.3.18 (KHTML, like Gecko) Version/8.0.3 Safari/600.3.18|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-05-25 19:14:47|Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-06-01 14:13:47|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko) Version/8.0.5 Safari/600.5.17|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-06-01 14:13:51|Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-06-09 19:41:35|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko) Version/8.0.5 Safari/600.5.17|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-06-09 19:41:39|Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-06-24 21:16:15|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko) Version/8.0.5 Safari/600.5.17|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-06-24 21:16:19|Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-07-07 20:20:46|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko) Version/8.0.5 Safari/600.5.17|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-07-07 20:20:50|Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-07-21 21:25:30|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko) Version/8.0.5 Safari/600.5.17|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-07-21 21:25:34|Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-08-13 19:53:30|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko) Version/8.0.5 Safari/600.5.17|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-08-13 19:53:34|Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-08-26 20:07:19|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko) Version/8.0.5 Safari/600.5.17|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-08-26 20:07:23|Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-09-25 20:32:23|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko) Version/8.0.5 Safari/600.5.17|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-09-25 20:32:27|Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-10-10 11:11:02|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko) Version/8.0.5 Safari/600.5.17|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-10-10 11:11:06|Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-10-15 20:36:40|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko) Version/8.0.5 Safari/600.5.17|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-10-15 20:36:44|Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-10-27 18:48:52|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko) Version/8.0.5 Safari/600.5.17|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-10-27 18:48:55|Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-11-08 21:14:44|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko) Version/8.0.5 Safari/600.5.17|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-11-08 21:14:48|Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-11-19 21:53:17|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko) Version/8.0.5 Safari/600.5.17|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-11-19 21:53:21|Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-11-24 13:42:45|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko) Version/8.0.5 Safari/600.5.17|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-11-24 13:42:49|Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-12-13 22:29:15|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko) Version/8.0.5 Safari/600.5.17|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-12-13 22:29:19|Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-12-23 19:25:53|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko) Version/8.0.5 Safari/600.5.17|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2015-12-23 19:25:57|Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2016-01-22 16:45:51|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko) Version/8.0.5 Safari/600.5.17|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2016-01-22 16:45:55|Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2016-01-28 22:03:33|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko) Version/8.0.5 Safari/600.5.17|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2016-01-28 22:03:37|Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2016-02-10 20:48:02|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko) Version/8.0.5 Safari/600.5.17|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2016-02-10 20:48:06|Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2016-02-29 21:21:54|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko) Version/8.0.5 Safari/600.5.17|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2016-02-29 21:21:58|Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2016-03-28 23:21:56|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko) Version/8.0.5 Safari/600.5.17|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2016-03-28 23:22:00|Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2016-04-10 12:10:52|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko) Version/8.0.5 Safari/600.5.17|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2016-04-24 12:08:18|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko) Version/8.0.5 Safari/600.5.17|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2016-04-24 12:08:19|Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2016-05-08 10:30:31|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko) Version/8.0.5 Safari/600.5.17|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2016-05-08 10:30:35|Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2016-06-07 22:28:33|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko) Version/8.0.5 Safari/600.5.17|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2016-06-07 22:28:37|Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2016-06-26 18:17:54|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko) Version/8.0.5 Safari/600.5.17|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2016-06-26 18:17:58|Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2016-07-22 22:13:08|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko) Version/8.0.5 Safari/600.5.17|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2016-07-22 22:13:12|Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2016-08-24 21:09:17|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko) Version/8.0.5 Safari/600.5.17|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2016-08-24 21:09:17|Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2016-09-06 21:58:20|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.7.7 (KHTML, like Gecko)|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2016-09-06 21:58:21|Mozilla/5.0 (iPhone; CPU iPhone OS 9_3 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13E188a Safari/601.1|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2016-09-23 20:42:28|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.7.8 (KHTML, like Gecko)|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2016-09-23 20:42:28|Mozilla/5.0 (iPhone; CPU iPhone OS 9_3 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13E188a Safari/601.1|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2016-09-27 21:42:48|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.7.8 (KHTML, like Gecko)|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2016-09-27 21:42:48|Mozilla/5.0 (iPhone; CPU iPhone OS 9_3 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13E188a Safari/601.1|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2016-10-14 20:07:51|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.7.8 (KHTML, like Gecko)|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2016-10-14 20:07:52|Mozilla/5.0 (iPhone; CPU iPhone OS 9_3 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13E188a Safari/601.1|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2016-10-24 20:33:40|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.7.8 (KHTML, like Gecko)|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2016-10-24 20:33:41|Mozilla/5.0 (iPhone; CPU iPhone OS 9_3 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13E188a Safari/601.1|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2016-11-25 22:25:53|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.7.8 (KHTML, like Gecko)|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2016-11-25 22:25:55|Mozilla/5.0 (iPhone; CPU iPhone OS 9_3 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13E188a Safari/601.1|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2016-12-05 21:08:57|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.7.8 (KHTML, like Gecko)|localhost|http:localhost/~Devlin/TryMeApplication/home.php
+::1||2016-12-05 21:08:57|Mozilla/5.0 (iPhone; CPU iPhone OS 9_3 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13E188a Safari/601.1|localhost|http:localhost/~Devlin/TryMeApplication/home.php
